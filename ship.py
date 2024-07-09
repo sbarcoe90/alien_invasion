@@ -5,6 +5,9 @@ class Ship:
 
     def __init__(self, ai_game):
         """Initialize the ship and set its starting position"""
+        """The __init__() method of Ship takes two parameters: the self reference and a reference to the current instance of the AlienInvasion class. 
+        This will give Ship access to all the game resources defined in AlienInvasion. """
+
         self.screen = ai_game.screen
         self.settings = ai_game.settings
         self.screen_rect = ai_game.screen.get_rect()
