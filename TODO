@@ -1,9 +1,2 @@
-July 9th
-Will add aliens near top of screen
-Will make them move down and sideways
-We'll implement collision detection. When bullet hits alien we get rid of the alien
-Finally we'll limit the number of ships a player has and end the game when the player runs out of ships
-
-
 July 10th
-Testing if TODO file is being tracked by Github
+Need to make the Fleet Move
