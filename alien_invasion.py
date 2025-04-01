@@ -10,7 +10,7 @@ from bullet import Bullet
 from alien import Alien
 
 class AlienInvasion:
-    """Overall class to manage game assets and behaviour."""
+    """Overall class to manage game assets and behaviour. Testing the git commit"""
 
     def __init__(self):
         """Initialize the game, and create game resources"""
